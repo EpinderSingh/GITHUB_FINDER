@@ -1,3 +1,7 @@
+# Github Finder
+
+A single page website to search github profiles that demonstrates my skills.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
